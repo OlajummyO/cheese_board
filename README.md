@@ -1,2 +1,2 @@
 # cheese_board
-This is an chess-board game. 
+This an interface of a chess-board game. 
